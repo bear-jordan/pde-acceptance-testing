@@ -9,14 +9,14 @@ How Supplier-Facing Validation Saves Time and Headaches
 
 ---
 
-## Fundamental Problems in Data Engineering
+# Fundamental Problems in Data Engineering
 
 1. Pressure from downstream consumers
 2. No control over source data
 
 ---
 
-## Key Take Aways
+# Key Take Aways
 
 - Communication with source data owners is critical
 - Don't just look at your database during optimization
@@ -85,7 +85,7 @@ How Supplier-Facing Validation Saves Time and Headaches
 
 ---
 
-## Fundamental Problems in Data Engineering (Revisited)
+# Fundamental Problems in Data Engineering (Revisited)
 
 1. Pressure from downstream consumers
   - Analysts had datasets available before they arrived to work

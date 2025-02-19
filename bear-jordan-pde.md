@@ -4,7 +4,7 @@ date: Feb 19, 2025
 paging: Slide %d / %d
 ---
 
-# Optimizing Data Workflows:
+# Optimizing Data Workflows
 How Supplier-Facing Validation Saves Time and Headaches 
 
 ---
